@@ -1,0 +1,1 @@
+I started this website using claude code as main basement then I will customize it with my own code along the way, because I dont recall anything about margin, model, etc, then I will start my website from scratch using my own code.
