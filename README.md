@@ -1,1 +1,1 @@
-I started this website using claude code as main basement then I will customize it with my own code along the way, because I dont recall anything about margin, model, etc, then I will start my website from scratch using my own code.
+I started this website using Claude Code as the main foundation, and I'll customize it with my own code along the way. Since I don't remember much about margins, the box model, and things like that, I'll eventually rebuild it from scratch using my own code
